@@ -44,11 +44,7 @@ Organize your PDF files as follows:
 ```
 files/
 ├── KSA/
-│   ├── SAR_2023.pdf
-│   ├── SAB_2023.pdf
 ├── UAE/
-│   ├── FAB_2023.pdf
-│   ├── ENBD_2023.pdf
 ├── Qatar/
 ├── Kuwait/
 ├── Bahrain/
